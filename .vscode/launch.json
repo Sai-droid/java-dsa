@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch subsetsRecursion",
+            "request": "launch",
+            "mainClass": "subsetsRecursion",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch GF",
+            "request": "launch",
+            "mainClass": "GF",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchExample",
+            "request": "launch",
+            "mainClass": "SwitchExample",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPowerOfThree",
+            "request": "launch",
+            "mainClass": "isPowerOfThree",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Flowers",
+            "request": "launch",
+            "mainClass": "Flowers",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch countData",
+            "request": "launch",
+            "mainClass": "countData",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch countOperations",
+            "request": "launch",
+            "mainClass": "countOperations",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertionsort",
+            "request": "launch",
+            "mainClass": "Insertionsort",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selectionsort",
+            "request": "launch",
+            "mainClass": "Selectionsort",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Seats",
+            "request": "launch",
+            "mainClass": "Seats",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimesProduct",
+            "request": "launch",
+            "mainClass": "PrimesProduct",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Blankspace",
+            "request": "launch",
+            "mainClass": "Blankspace",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tprime",
+            "request": "launch",
+            "mainClass": "Tprime",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagagam",
+            "request": "launch",
+            "mainClass": "anagagam",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationOfString",
+            "request": "launch",
+            "mainClass": "PermutationOfString",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch LonPrefix",
+            "request": "launch",
+            "mainClass": "LonPrefix",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOnes",
+            "request": "launch",
+            "mainClass": "MaxOnes",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapMin",
+            "request": "launch",
+            "mainClass": "SwapMin",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxProfit",
+            "request": "launch",
+            "mainClass": "MaxProfit",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubArrSum",
+            "request": "launch",
+            "mainClass": "SubArrSum",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Complete",
+            "request": "launch",
+            "mainClass": "Complete",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinSwap",
+            "request": "launch",
+            "mainClass": "MinSwap",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxExpr",
+            "request": "launch",
+            "mainClass": "MaxExpr",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertElement",
+            "request": "launch",
+            "mainClass": "InsertElement",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedBrackets",
+            "request": "launch",
+            "mainClass": "BalancedBrackets",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch FastExpo",
+            "request": "launch",
+            "mainClass": "FastExpo",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMax",
+            "request": "launch",
+            "mainClass": "FindMax",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subsets",
+            "request": "launch",
+            "mainClass": "Subsets",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStack",
+            "request": "launch",
+            "mainClass": "TestStack",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Histogram",
+            "request": "launch",
+            "mainClass": "Histogram",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperDigit",
+            "request": "launch",
+            "mainClass": "SuperDigit",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTreeCountFullNodes",
+            "request": "launch",
+            "mainClass": "BinaryTreeCountFullNodes",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch PBVDemo",
+            "request": "launch",
+            "mainClass": "PBVDemo",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecurseFibonacci",
+            "request": "launch",
+            "mainClass": "RecurseFibonacci",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "java_63d9f608"
+        }
+    ]
+}
