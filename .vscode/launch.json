@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch paranthesis",
+            "request": "launch",
+            "mainClass": "paranthesis",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch letterCombinations",
+            "request": "launch",
+            "mainClass": "letterCombinations",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch FastExponentiation",
+            "request": "launch",
+            "mainClass": "FastExponentiation",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
             "name": "Launch subsetsRecursion",
             "request": "launch",
             "mainClass": "subsetsRecursion",
