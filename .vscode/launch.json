@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sequentialDigits",
+            "request": "launch",
+            "mainClass": "sequentialDigits",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch MazeProblem",
+            "request": "launch",
+            "mainClass": "MazeProblem",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePaths3",
+            "request": "launch",
+            "mainClass": "UniquePaths3",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationList",
+            "request": "launch",
+            "mainClass": "PermutationList",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutations2",
+            "request": "launch",
+            "mainClass": "Permutations2",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationSequence",
+            "request": "launch",
+            "mainClass": "PermutationSequence",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationsSum",
+            "request": "launch",
+            "mainClass": "CombinationsSum",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combinations",
+            "request": "launch",
+            "mainClass": "Combinations",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
             "name": "Launch paranthesis",
             "request": "launch",
             "mainClass": "paranthesis",

@@ -18,11 +18,11 @@ class subsetsRecursion {
 
         subsets.add(new ArrayList<Integer>(currentList));
 
-        for(int i=index;i<nums.length;i++) {
+        for(int j=index;j<nums.length;j++) {
 
-            currentList.add(nums[i]);
+            currentList.add(nums[j]);
 
-            generateSubsets(nums, i + 1, subsets, currentList);
+            generateSubsets(nums, j+ 1, subsets, currentList);
 
             currentList.remove(currentList.size() - 1);
 
@@ -30,7 +30,7 @@ class subsetsRecursion {
        
     }
     public static void main(String args[]){
-        int arr[] = {5 ,15 3 };
+        int arr[] = {15,5,3 };
             System.out.println(subsets(arr));
     }
 
