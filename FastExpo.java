@@ -1,6 +1,19 @@
 class FastExpo {
 
-    
+        public static int powOfX(int x,int y){
+            if(y<0){
+                return 0;
+            }
+            if(y==0){
+                return 1;
+            }
+            int ans = powOfX(x,y/2);
+            if(y%2==0){
+                return ans*ans;
+            } else{
+                return ans*ans*x;
+            }
+        }
     
         public static double pow(double x ,int n ){
             if (n == 0) {
@@ -39,8 +52,9 @@ class FastExpo {
 
 
     public static void main(String args[]) {
-        System.out.println(myPow(2, -2));
+        // System.out.println(myPow(2, -2));
         // System.out.println(MathPowerOfThree(2, 5));
+        System.out.print(powOfX(2,5));
     }
 }
 

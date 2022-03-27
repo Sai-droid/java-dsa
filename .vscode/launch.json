@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearchMultipleOccurances",
+            "request": "launch",
+            "mainClass": "BinarySearchMultipleOccurances",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplementPow",
+            "request": "launch",
+            "mainClass": "ImplementPow",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePaths2",
+            "request": "launch",
+            "mainClass": "UniquePaths2",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nqueens",
+            "request": "launch",
+            "mainClass": "Nqueens",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
             "name": "Launch sequentialDigits",
             "request": "launch",
             "mainClass": "sequentialDigits",
