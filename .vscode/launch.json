@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeakestRows",
+            "request": "launch",
+            "mainClass": "WeakestRows",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppleDivision",
+            "request": "launch",
+            "mainClass": "AppleDivision",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch KthSmInMat",
+            "request": "launch",
+            "mainClass": "KthSmInMat",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch RateMaze",
+            "request": "launch",
+            "mainClass": "RateMaze",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstLastBs",
+            "request": "launch",
+            "mainClass": "FirstLastBs",
+            "projectName": "java_63d9f608"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearchMultipleOccurances",
             "request": "launch",
             "mainClass": "BinarySearchMultipleOccurances",

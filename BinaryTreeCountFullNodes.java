@@ -9,7 +9,7 @@ static class Node
     int data;
     Node left, right;
 }
- 
+C:\Users\kalsaich\java\BinaryTreeCountFullNodes.java
 // Function to get the count of full Nodes in
 // a binary tree
 static int getfullCount(Node root)
